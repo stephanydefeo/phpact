@@ -5,7 +5,7 @@
 </head>
 <body>
 	<?php
-echo "Your User Agent is :" . $_SERVER ['HTTP_USER_AGENT'];
-?>
+		echo "Your User-Agent is:" . $_SERVER ['HTTP_USER_AGENT'];
+	?>
 </body>
 </html>

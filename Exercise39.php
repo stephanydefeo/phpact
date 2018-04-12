@@ -5,8 +5,7 @@
 </head>
 <body>
 	<?php
-header('Location: https://www.w3resource.com/');
-?>
-
+		echo "File size: ".filesize("file.txt");
+	?>
 </body>
 </html>
